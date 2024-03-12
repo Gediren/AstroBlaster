@@ -1,0 +1,7 @@
+Author: Matt Waldeck
+Version: 1.0
+Created: March 11, 2024
+Last Update: March 11, 2024
+
+This game was created by following the tutorial below:
+https://gamemaker.io/en/tutorials/make-arcade-space-shooter
