@@ -1,7 +1,10 @@
 Author: Matt Waldeck
-Version: 1.0
+Version: 1.1.0
 Created: March 11, 2024
-Last Update: March 11, 2024
+Last Update: March 14, 2024
 
-This game was created by following the tutorial below:
+This game is my take on the classic arcade game Asteroids.
+It was Originally created by following the tutorial linked below.
+I intend to continue to develop it over time, see changelog for more details.
+
 https://gamemaker.io/en/tutorials/make-arcade-space-shooter

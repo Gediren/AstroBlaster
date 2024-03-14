@@ -1,0 +1,9 @@
+v1.1.0 (2024-03-14)
+-Added background music.
+-Added sound effects for shooting, destroying rocks, and losing.
+-Added ability to move ship backwards.
+-Modified resolution to better suit modern widescreen displays.
+-Added pause function.
+
+v1.0.0 (2024-03-13)
+-Followed tutorial to create basic game.
