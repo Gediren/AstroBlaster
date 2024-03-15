@@ -1,3 +1,12 @@
+v1.2.0 (2024-03-15)
+-Created main menu:
+	-Options for Play, Help, and Quit.
+	-Simple animations when hovering and clicking buttons.
+	-Sound effects when selecting a menu option.
+	-Icon and title featured.
+-Created custom graphics with Microsoft Designer and replaced default GameMaker logos.
+-Increased width of game window from 1280 pixels to 1350 pixels.
+
 v1.1.0 (2024-03-14)
 -Added background music.
 -Added sound effects for shooting, destroying rocks, and losing.

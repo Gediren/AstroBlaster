@@ -14,6 +14,5 @@ if keyboard_check_pressed(vk_escape)
 if paused == true
     {
     alarm[0]++;
-    alarm[1]++;
     }
 }

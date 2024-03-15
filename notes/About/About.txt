@@ -1,7 +1,7 @@
 Author: Matt Waldeck
-Version: 1.1.0
+Version: 1.2.0
 Created: March 11, 2024
-Last Update: March 14, 2024
+Last Update: March 15, 2024
 
 This game is my take on the classic arcade game Asteroids.
 It was Originally created by following the tutorial linked below.
