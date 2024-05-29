@@ -1,4 +1,7 @@
-/// @description Pause system.
+//Powerup spawn timer.
+powerup_time -= delta_time/1000000;
+
+//Pause system.
 if room == rm_game
 {
 if keyboard_check_pressed(vk_escape)

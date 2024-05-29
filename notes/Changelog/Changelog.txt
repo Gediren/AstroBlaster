@@ -1,3 +1,10 @@
+v1.3.0 (2024-05-29)
+-Added powerups:
+	-Spreadshot
+	-Invincibility
+	-Single-use Shield
+-Updated "Help".
+
 v1.2.0 (2024-03-15)
 -Created main menu:
 	-Options for Play, Help, and Quit.

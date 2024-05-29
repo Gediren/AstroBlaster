@@ -23,4 +23,14 @@ if keyboard_check_pressed(vk_space)
 	//Plays a sound when the player shoots.
 	//The pitch and volume will be slightly randomized.
 	audio_play_sound(snd_shoot, 0, false, random_range(0.9, 1.1), 0, random_range(0.5, 1.5))
+	
+	//If the Spread powerup is enabled, create two additional bullet instances
+	//on slightly different trajectories.
+	if (powerup == 1)
+	{
+		var _bullet = instance_create_layer(x, y, "Instances", obj_bullet);
+		_bullet.direction += 10;
+		_bullet = instance_create_layer(x, y, "Instances", obj_bullet);
+		_bullet.direction -= 10;
+	}
 }
